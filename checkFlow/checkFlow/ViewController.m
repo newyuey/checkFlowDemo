@@ -7,9 +7,6 @@
 //
 
 #import "ViewController.h"
-#include <ifaddrs.h>
-#include <sys/socket.h>
-#include <net/if.h>
 #import "checkWifiFlow.h"
 @interface ViewController ()
 {
